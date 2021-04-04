@@ -36,6 +36,10 @@ Follow [Documentation](#documentation) instructions below to setup and run the a
 
 Content is in the [pages](/pages/) directory as `.vue` files. The [Examples](https://nuxtjs.org/examples) section of the Nuxt docs covers a Hello World example which has multiple pages and can be run in the online sandbox.
 
+Related project:
+
+- [![MichaelCurrin - nuxt-default-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=nuxt-default-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/nuxt-default-quickstart)
+
 
 ## Create a fresh project
 
