@@ -30,6 +30,12 @@
 
 This Nuxt project uses Yarn, JavaScript (no TS), Vue and Vue templates.
 
+What is Nuxt?
+
+> The Intuitive Vue Framework
+> 
+> Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful.
+
 See the [Nuxt homepage](https://nuxtjs.org/) for more info.
 
 Follow [Documentation](#documentation) instructions below to setup and run the app locally.
