@@ -8,7 +8,7 @@
 [![Made with Yarn](https://img.shields.io/badge/Yarn->%3D1-blue?logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 [![Package - nuxt](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/nuxt-static-quickstart/nuxt)](https://www.npmjs.com/package/nuxt)
-[![dependency - vue](https://img.shields.io/badge/dependency-vue-blue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
+[![Package - vue](https://img.shields.io/badge/dependency-vue-blue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
 
 
 ## Preview
